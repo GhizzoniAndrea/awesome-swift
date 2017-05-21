@@ -46,3 +46,15 @@ A curated list of awesome Swift libraries and projects.
 [SwiftPullToRefresh](https://github.com/WXGBridgeQ/SwiftPullToRefresh) -An easy way to implement pull-down-to-refresh and pull-up-to-load-more feature based on UIScrollView extension, written in Swift 3
 
 [ShadowImageView](https://github.com/olddonkey/ShadowImageView) -A apple music cover picture shadow style image library
+
+[AnimateBlurRadius](https://github.com/fichek/AnimateBlurRadius) -An example of how to interactively animate blur radius on iOS 10
+
+[NightNight](https://github.com/Draveness/NightNight) -Elegant way to integrate night mode to swift projects
+
+[Probably](https://github.com/harlanhaskins/Probably) -A Swift probability and statistics library
+
+[Each](https://github.com/dalu93/Each) -Elegant :stopwatch: interface for Swift apps
+
+[SwiftRichString](https://github.com/malcommac/SwiftRichString) -Elegant & Painless Attributed Strings Management Library in Swift
+
+[Swift-CellAnimation](https://github.com/Mononster/Swift-CellAnimation) -Facebook liked cell, provide the functionality of dynamically changing the height of UITableViewCell with animation
