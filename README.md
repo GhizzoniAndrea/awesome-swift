@@ -22,3 +22,27 @@ A curated list of awesome Swift libraries and projects.
 [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4)
 
 [SCPromptView-Swift](https://github.com/Chan4iOS/SCPromptView-Swift)
+
+[FSPagerView](https://github.com/WenchaoD/FSPagerView) -an elegant Screen Slide Library
+
+[DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView) -A simple animated progress bar in Swift
+
+[Kommander-iOS](https://github.com/intelygenz/Kommander-iOS) -manage the task execution in different threads
+
+[Endpoints](https://github.com/tailoredmedia/Endpoints) -Type-Safe Swift Networking
+
+[UBTokenBar](https://github.com/uber/UBTokenBar) -Flexible and extensible UICollectionView based TokenBar
+
+[gliding-collection](https://github.com/Ramotion/gliding-collection) -Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller
+
+[ScratchCardView](https://github.com/pgorzelany/ScratchCardView) -RT
+
+[UIFontComplete](https://github.com/Nirma/UIFontComplete) -Make working with UIFont faster and less error-prone
+
+[BouncyLayout](https://github.com/roberthein/BouncyLayout)
+
+[ETCollectionViewWaterFallLayout](https://github.com/ElegantTeam/ETCollectionViewWaterFallLayout) -ETCollectionViewWaterFallLayout is a subclass of UICollectionViewLayout written completely in Swift
+
+[SwiftPullToRefresh](https://github.com/WXGBridgeQ/SwiftPullToRefresh) -An easy way to implement pull-down-to-refresh and pull-up-to-load-more feature based on UIScrollView extension, written in Swift 3
+
+[ShadowImageView](https://github.com/olddonkey/ShadowImageView) -A apple music cover picture shadow style image library
