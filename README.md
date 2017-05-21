@@ -58,3 +58,9 @@ A curated list of awesome Swift libraries and projects.
 [SwiftRichString](https://github.com/malcommac/SwiftRichString) -Elegant & Painless Attributed Strings Management Library in Swift
 
 [Swift-CellAnimation](https://github.com/Mononster/Swift-CellAnimation) -Facebook liked cell, provide the functionality of dynamically changing the height of UITableViewCell with animation
+
+[Pastel](https://github.com/cruisediary/Pastel) -:art: Gradient animation effect like Instagram
+
+[SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) -A tool to convert Swift code to Kotlin
+
+[MotionBook](https://github.com/younatics/MotionBook) -:book: Awesome iOS UI/UX Animation Book
