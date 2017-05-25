@@ -90,3 +90,21 @@ A curated list of awesome Swift libraries and projects.
 [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) -A tool to convert Swift code to Kotlin
 
 [MotionBook](https://github.com/younatics/MotionBook) -:book: Awesome iOS UI/UX Animation Book
+
+[Passcode](https://github.com/cruisediary/Passcode) -:key: Passcode for iOS Rxswift, ReactorKit and IGListKit example
+
+[RxSwift](https://github.com/ReactiveX/RxSwift) -Reactive Programming in Swift
+
+[Hero](https://github.com/lkzhao/Hero) -Elegant transition library for iOS & tvOS
+
+[Forge](https://github.com/hollance/Forge) -A neural network toolkit for Metal
+
+[ZZYQRCodeSwift](https://github.com/zhang28602/ZZYQRCodeSwift) -a scanner for QRCode barCode 最好用的ios二维码、条形码，扫描、生成框架，支持闪光灯，从相册获取，扫描音效等，高仿微信，微博
+
+[LaunchScreenSnapshot](https://github.com/alexruperez/LaunchScreenSnapshot) -Protects sensitive data in your app snapshot
+
+[DeckTransition](https://github.com/HarshilShah/DeckTransition) -A library to recreate the iOS 10 Apple Music now playing transition
+
+[VNImageScanner](https://github.com/varun-naharia/VNImageScanner)
+
+[RSLoadingView](https://github.com/roytornado/RSLoadingView) -Awesome loading animations using 3D engine written with Swift
