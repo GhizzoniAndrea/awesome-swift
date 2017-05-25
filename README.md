@@ -3,6 +3,11 @@ A curated list of awesome Swift libraries and projects.
 
 ### 基础
 
+### 服务器端开发
+[今天开始用swift写服务器(一)](http://blog.csdn.net/loveqcx123/article/details/70160379)
+
+[今天开始用swift写服务器(二)](http://blog.csdn.net/loveqcx123/article/details/71083555)
+
 ### 进阶
 [Swift 对象内存模型探究（一）](https://mp.weixin.qq.com/s/zIkB9KnAt1YPWGOOwyqY3Q)
 
