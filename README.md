@@ -8,6 +8,27 @@ A curated list of awesome Swift libraries and projects.
 
 [今天开始用swift写服务器(二)](http://blog.csdn.net/loveqcx123/article/details/71083555)
 
+### Swift 学习笔记系列
+[基础部分](http://www.cnblogs.com/Youhei/p/6873982.html)
+
+[错误处理](http://www.cnblogs.com/Youhei/p/6874783.html)
+
+[基本运算符](http://www.cnblogs.com/Youhei/p/6874893.html)
+
+[字符串](http://www.cnblogs.com/Youhei/p/6875241.html)
+
+[集合类型](http://www.cnblogs.com/Youhei/p/6876142.html)
+
+[控制流](http://www.cnblogs.com/Youhei/p/6877652.html)
+
+[函数](http://www.cnblogs.com/Youhei/p/6878321.html)
+
+[闭包](http://www.cnblogs.com/Youhei/p/6880208.html)
+
+[枚举](http://www.cnblogs.com/Youhei/p/6878767.html)
+
+[类和结构体](http://www.cnblogs.com/Youhei/p/6878866.html)
+
 ### 进阶
 [Swift 对象内存模型探究（一）](https://mp.weixin.qq.com/s/zIkB9KnAt1YPWGOOwyqY3Q)
 
