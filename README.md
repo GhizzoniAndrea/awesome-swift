@@ -108,3 +108,12 @@ A curated list of awesome Swift libraries and projects.
 [VNImageScanner](https://github.com/varun-naharia/VNImageScanner)
 
 [RSLoadingView](https://github.com/roytornado/RSLoadingView) -Awesome loading animations using 3D engine written with Swift
+
+[the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) -中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+
+[SegmentedControl](https://github.com/IvanVorobei/SegmentedControl) -custom SegmentedControl for iOs in Swift
+
+[30DaysofSwift](https://github.com/allenwong/30DaysofSwift) -A self-taught project to learn Swift
+
+### 工具
+[SwiftLint——Swift代码检查及自动格式化工具](http://www.cnblogs.com/manupstairs/p/5771229.html)
