@@ -115,5 +115,7 @@ A curated list of awesome Swift libraries and projects.
 
 [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) -A self-taught project to learn Swift
 
+[swift-deep-linking](https://github.com/ijoshsmith/swift-deep-linking) -A simple way to consume custom deep link URLs in a Swift app
+
 ### 工具
 [SwiftLint——Swift代码检查及自动格式化工具](http://www.cnblogs.com/manupstairs/p/5771229.html)
