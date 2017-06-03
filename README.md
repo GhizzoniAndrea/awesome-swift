@@ -117,5 +117,6 @@ A curated list of awesome Swift libraries and projects.
 
 [swift-deep-linking](https://github.com/ijoshsmith/swift-deep-linking) -A simple way to consume custom deep link URLs in a Swift app
 
+[fuse-swift](https://github.com/krisk/fuse-swift) -A lightweight fuzzy-search library, with zero dependencies
 ### 工具
 [SwiftLint——Swift代码检查及自动格式化工具](http://www.cnblogs.com/manupstairs/p/5771229.html)
